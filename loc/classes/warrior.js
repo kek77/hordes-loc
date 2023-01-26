@@ -33,7 +33,7 @@ export default {
     es: 'Los guerreros resisten más daño de los monstruos que cualquier otra clase gracias a su gran defensa, su equipamiento (escudos) y sus fuertes Buffs (ventajas) defensivos.',
     fr: 'Les guerriers sont conçus pour encaisser plus de monstres que n\'importe quelle autre classe en ayant une défense élevée grâce à leurs équipements (Boucliers) et des buffs défensifs puissants.',
     hi: 'सर्वश्रेष्ठ रक्षा उपकरण और ताक़तवर कवच के उपयोग से सारी श्रेणियो में योधा सबसे अधिक मार रोक सकते हैं।',
-    ko: '전사들은 방패와 강력한 방어적인 버프를 통해 높은 방어력을 가짐으로써 다른 직업들보다 더 많은 몬스터를 견딜수 있습니다.',
+    ko: '전사들은 방패와 강력한 방어적인 버프를 통해 높은 방어력을 가짐으로써 다른 직업들보다 더 많은 괴물들에게서 버틸수 있습니다.',
     pt: 'Os guerreiros são feitos de forma a resistir a mais monstros do que qualquer outra classe, tendo alta defesa através de equipamentos (Escudos) e fortes buffs defensivos.',
     nl: 'Krijgers zijn bedoeld om meer schade op te vangen dan enig andere klasse via middel van bepaalde verdedigingsuitrusting (Schilden) en sterke defensieve betoveringen.',
     tr: 'Savaşçılar güçlü defansif ekipmanları (Kalkanlar) ve defansif güçlendirmeleri ile canavarları diğer sınıflardan daha çok üstüne çeker.',
@@ -47,6 +47,5 @@ export default {
     sr: 'Ослањајући се на своју огромну одбрану и снагу, ратници се могу укључити у борбу против бројних непријатеља, тако да остали чланово његовог тима могу неометано користити магију.',
     it: 'I Guerrieri sono creati per tankare più mostri rispetto alle altri classi avendo una difesa alta grazie a scudi e forti buff difensivi.',
     ja: '戦士は装備(盾)と強力な防御バフによる高い防御力により、他のどの職業よりもモンスターを引き付けられるよう作られています。'
-
   }
 }
